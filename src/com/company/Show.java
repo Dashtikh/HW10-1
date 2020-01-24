@@ -1,4 +1,4 @@
 package com.company;
 
-public class Show {
+public class Show extends Thread {
 }
